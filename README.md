@@ -5,7 +5,7 @@ My boilerplate Jekyll setup. Includes:
 - Sass setup (SMACSS style)
 - My basic includes structure
 
-These are just some super basic things I find myself often doing at the beginning of many new Jekyll setups.
+These are just some super basic things I find myself often doing at the beginning of many new Jekyll setups. This boilerplate is design agnositic, and is only a framework of spiked out files for styles and markup to be added into.
 
 Note: this boilerplate is more for Jekyll powered sites than blogs.
 
