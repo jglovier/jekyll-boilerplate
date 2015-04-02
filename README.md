@@ -7,6 +7,8 @@ My boilerplate Jekyll setup. Includes:
 
 These are just some super basic things I find myself often doing at the beginning of many new Jekyll setups.
 
+Note: this boilerplate is more for Jekyll powered sites than blogs.
+
 ## Usage
 
 ### Setup
