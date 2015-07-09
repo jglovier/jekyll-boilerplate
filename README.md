@@ -4,6 +4,7 @@ My boilerplate Jekyll setup. Includes:
 - Bundler
 - Sass setup (SMACSS style)
 - My basic includes structure
+- Layout grid from [Primer](http://primercss.io/layout/) (in `_layout.scss`)
 
 These are just some super basic things I find myself often doing at the beginning of many new Jekyll setups.
 
